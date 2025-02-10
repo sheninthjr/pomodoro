@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro",
+    "version": "2.1",
+    "description": "Pomodoro to track your speed",
+    "permissions": ["windows"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Pomodoro",
+      "default_icon": {
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+      "128": "icon.png"
+    }
+  }
