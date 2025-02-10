@@ -1,3 +1,3 @@
 # Pomodoro Timer
 
-![Preview](image.png)
+![alt text](image.png)
